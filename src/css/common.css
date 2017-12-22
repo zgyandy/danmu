@@ -7,6 +7,7 @@
     width: 100%;
     border: 1px #000 solid;
     position: relative;
+    overflow: hidden;
 }
 .barrage{
     position: absolute;
